@@ -1,6 +1,6 @@
 # Palindrome Checker in C Language
 
-I'm thrilled to announce the completion of a Palindrome Checker project in C language! 🎉
+This is a simple palindrome checker program implemented in C language. It checks whether a given string is a palindrome or not.
 
 ## Overview
 
